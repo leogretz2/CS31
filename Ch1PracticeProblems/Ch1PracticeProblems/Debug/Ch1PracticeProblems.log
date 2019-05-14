@@ -1,0 +1,3 @@
+﻿  pp1.cpp
+c:\users\leogr\onedrive\documents\freshman_year_ucla\cs31\ch1practiceproblems\ch1practiceproblems\pp1.cpp(15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Ch1PracticeProblems.vcxproj -> C:\Users\leogr\OneDrive\Documents\Freshman_Year_UCLA\CS31\Ch1PracticeProblems\Debug\Ch1PracticeProblems.exe
