@@ -1,0 +1,5 @@
+﻿  poll.cpp
+c:\users\leogr\onedrive\documents\freshman_year_ucla\cs31\project_3_total\project_3_total\poll.cpp(141): warning C4018: '<': signed/unsigned mismatch
+c:\users\leogr\onedrive\documents\freshman_year_ucla\cs31\project_3_total\project_3_total\poll.cpp(178): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\leogr\onedrive\documents\freshman_year_ucla\cs31\project_3_total\project_3_total\poll.cpp(191): warning C4305: '=': truncation from 'int' to 'bool'
+c:\users\leogr\onedrive\documents\freshman_year_ucla\cs31\project_3_total\project_3_total\poll.cpp(191): error C2106: '=': left operand must be l-value

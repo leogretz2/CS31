@@ -1,0 +1,25 @@
+#include <iostream>
+#include <string>
+#include <cctype>
+using namespace std;
+
+bool hasProperSyntax(string pollData) {
+	int firstLetter = 0;
+	int firstNumber = 0;
+	if (pollData == "" || (isalpha(pollData[0]) && isalpha(pollData[1]))) {
+		if (pollData.size() == 2 || isdigit(pollData[2]) && isalpha(pollData[3])|| isdigit(pollData[2]) && isdigit(pollData[3]) && isalpha(pollData[4]))
+		return true;
+	}
+	return false;
+}
+
+int tallySeats(string pollData, char party, int& seatTally) {
+	return 1;
+}
+
+int main() {
+	cout << "Enter voting thing ";
+	string s;
+	getline(cin, s);
+	cout << hasProperSyntax(s);
+}
